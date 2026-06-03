@@ -1,0 +1,13 @@
+*body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+}
+.logo{
+    font-weight: bold;
+    color: blue;
+}
+.navbar{
+    display: flex;
+}
